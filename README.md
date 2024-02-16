@@ -5,7 +5,7 @@
 ### About the website
 This is a simple web application that allows users to search for recipes by entering the name of a dish. The application fetches recipe data from the TheMealDB API and displays the recipe details along with the ingredients and cooking instructions.
 
-- <b>Website link : </b>[Click here✨](https://blaze-001.github.io/Recipe-Search-Web-Application/)
+- <b>Website link : </b>[Click here✨](https://mukul-oo7.github.io/CookCrafter/)
 ### Technologies Used
 * HTML
 * CSS
